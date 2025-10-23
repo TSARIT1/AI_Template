@@ -48,7 +48,7 @@ function Footer() {
 
                     <hr className="border-light " />
                     <div className="text-center">
-                        <p className="mb-0"> @Jwellary shop. All rights reserved.</p>
+                        <p className="mb-0"> @Artificial intelligence. All rights reserved.</p>
                     </div>
                 </div>
             </footer>
